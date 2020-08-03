@@ -63,11 +63,11 @@ while True:
 		print(Fore.LIGHTRED_EX + 'BAD PROXY ' + prox)
 	else:
 		print(Fore.LIGHTGREEN_EX + 'GOOD PROXY ' + prox)
-		file="proxy.txt"
+		file="proxies.txt"
 		f=open(file)
 		array=f.read().splitlines()
 		if prox in array:
-			print("{} already exist in proxy.txt".format(prox))
+			print("{} already exist in proxies.txt".format(prox))
 		else:
 			f=open(file, "a")
 			f.write(prox+"\n")
