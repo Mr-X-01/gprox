@@ -63,7 +63,7 @@ while True:
 		print(Fore.LIGHTRED_EX + 'BAD PROXY ' + prox)
 	else:
 		print(Fore.LIGHTGREEN_EX + 'GOOD PROXY ' + prox)
-		file="proxies.txt"
+		file="proxy.txt"
 		f=open(file)
 		array=f.read().splitlines()
 		if prox in array:
