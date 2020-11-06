@@ -12,10 +12,9 @@ There will be questions - Telegram: <a href="https://t.me/Mrxanon"> @Mrxanon</a>
 • <code>git clone https://github.com/Mr-X-01/gprox</code><br>
 • <code>cd gprox</code><br>
 • <code>sh install.sh</code><br>
-• <code>python prox.py</code><br>
 <br>
 The proxy list will be in the same directory (gprox) in the proxies.txt file<br>
 # How to start?
-• <code>Bomber</code><br>
+• <code>python prox.py</code><br>
 # Update
 <code>cd ~/gprox/ && git pull</code>
