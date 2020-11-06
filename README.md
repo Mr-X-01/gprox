@@ -9,6 +9,7 @@ There will be questions - Telegram: <a href="https://t.me/Mrxanon"> @Mrxanon</a>
 # How to install?
 • <code>apt update && apt upgrade -y</code><br>
 • <code>apt install git -y</code><br>
+• <code>apt install nano python python2 -y</code><br>
 • <code>git clone https://github.com/Mr-X-01/gprox</code><br>
 • <code>cd gprox</code><br>
 • <code>sh install.sh</code><br>
