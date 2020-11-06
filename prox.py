@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 # Author: @Mrxanon
-# https://github.com/Mr-X-01/Bomber
+# https://github.com/Mr-X-01/gprox
 import proxyscrape, urllib3, requests, os
 from sys import argv
 from os import system as terminal
