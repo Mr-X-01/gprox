@@ -1,6 +1,6 @@
-#!/usr/bin/python3
-# Author: @Mrxanon
-# https://github.com/Mr-X-01/gprox
+# Author: Mr-X-01
+# Telegram: @Mrxanon
+# https://github.com/Mr-X-01
 import proxyscrape, urllib3, requests, os
 from sys import argv
 from os import system as terminal
